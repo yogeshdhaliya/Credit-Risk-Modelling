@@ -86,4 +86,4 @@ The application will automatically open in your default web browser at `http://l
 
 The live application is deployed and available here:
 
-[Credit Risk Modelling by Yogesh](https://credit-risk-modelling-by-yogesh.streamlit.app/)
+[Credit Risk Modelling](https://credit-risk-modelling-by-yogesh.streamlit.app/)
