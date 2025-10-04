@@ -92,4 +92,4 @@ The live application is deployed and available here:
 
 ## 📄 8. License
 
-This project is licensed under the **[MIT License / Apache 2.0 / Choose License]** - see the `LICENSE.md` file for details.
+This project is licensed under the **[MIT License]** - see the `LICENSE.md` file for details.
