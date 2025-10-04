@@ -87,9 +87,3 @@ The application will automatically open in your default web browser at `http://l
 The live application is deployed and available here:
 
 [Credit Risk Modelling by Yogesh](https://credit-risk-modelling-by-yogesh.streamlit.app/)
-
------
-
-## 📄 8. License
-
-This project is licensed under the **[MIT License]** - see the `LICENSE.md` file for details.
